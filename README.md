@@ -61,15 +61,6 @@ The program builds a Huffman tree based on character frequencies and generates o
 
 ---
 
-## 🏗️ Project Structure
-
-.
-├── source files (e.g., huffman.c / main.cpp)
-├── header files (if any)
-└── README.md
-
----
-
 ## ▶️ Compilation & Execution
 
 Compile:
